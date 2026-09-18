@@ -6,4 +6,5 @@ void func1() {
 
 void func2() {
     printf("This is func2, also implemented by user shawnkuo1912@win.\n");
+    printf("This is a better implementation of func2.\n");
 }
