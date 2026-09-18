@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include "header.h"
 
-extern func1();
-extern func2();
+extern void func1();
+extern void func2();
 
 int main(void) {
     func1();
